@@ -138,11 +138,6 @@
   <img src="https://streak-stats.demolab.com?user=bravomesh&theme=tokyonight&hide_border=true&background=0d1117&ring=42a5f5&fire=1565c0&currStreakLabel=42a5f5"/>
 </div>
 
-<!-- CONTRIBUTION CALENDAR — green GitHub palette -->
-<div align="center">
-  <img src="https://ghchart.rshah.org/216e39/bravomesh" alt="Contribution calendar" width="100%"/>
-</div>
-
 <!-- PROFILE SUMMARY CARDS -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bravomesh&theme=tokyonight" width="100%"/>

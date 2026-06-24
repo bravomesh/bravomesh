@@ -4,8 +4,8 @@
       <feGaussianBlur stdDeviation="1.2"/>
     </filter>
     <linearGradient id="blue-tint" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"   stop-color="#0a1f4e" stop-opacity="0.52"/>
-      <stop offset="100%" stop-color="#0d47a1" stop-opacity="0.44"/>
+      <stop offset="0%"   stop-color="#0a1f4e" stop-opacity="0.32"/>
+      <stop offset="100%" stop-color="#0d47a1" stop-opacity="0.26"/>
     </linearGradient>
     <linearGradient id="vignette-b" x1="0" y1="0" x2="0" y2="1">
       <stop offset="60%" stop-color="#0a1f4e" stop-opacity="0"/>

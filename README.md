@@ -23,21 +23,11 @@
 <table>
 <tr>
 <td width="45%" align="center">
-  <img src="./assets/terminal.svg" width="340" alt="Terminal animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" alt="Developer"/>
 </td>
 <td width="55%" valign="top">
 
-```yaml
-name:       Meshack Kibet
-role:       Software Engineer · Systems & Geospatial Dev
-org:        ICPAC-IGAD
-location:   Karen, Nairobi, Kenya
-background: Systems Analysis & Cybersecurity
-focus:      Geospatial platforms · climate systems
-scale:      11 East African countries
-status:     Open to work · collaborations · consulting
-mindset:    "Reliable, secure, field-grade."
-```
+<img src="./assets/terminal.svg" width="100%" alt="Terminal animation"/>
 
 - 🛰️ &nbsp;**Satellite & climate data** → national-scale production platforms
 - 🧩 &nbsp;Full-stack: **frontend → backend → infra → pipelines**

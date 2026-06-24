@@ -23,7 +23,7 @@
 <table>
 <tr>
 <td width="45%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" alt="Developer GIF"/>
+  <img src="./assets/terminal.svg" width="340" alt="Terminal animation"/>
 </td>
 <td width="55%" valign="top">
 
@@ -148,14 +148,18 @@ mindset:    "Reliable, secure, field-grade."
   <img src="https://streak-stats.demolab.com?user=bravomesh&theme=tokyonight&hide_border=true&background=0d1117&ring=42a5f5&fire=1565c0&currStreakLabel=42a5f5"/>
 </div>
 
-<!-- CONTRIBUTION CALENDAR HEATMAP -->
+<!-- CONTRIBUTION CALENDAR — green GitHub palette -->
 <div align="center">
-  <img src="https://ghchart.rshah.org/1565c0/bravomesh" alt="Contribution heatmap" width="100%"/>
+  <img src="https://ghchart.rshah.org/216e39/bravomesh" alt="Contribution calendar" width="100%"/>
 </div>
 
-<!-- ACTIVITY GRAPH -->
+<!-- PROFILE SUMMARY CARDS -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bravomesh&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=42a5f5&line=1565c0&point=ffffff&area=true" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bravomesh&theme=tokyonight" width="100%"/>
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bravomesh&theme=tokyonight" height="140em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bravomesh&theme=tokyonight&utcOffset=3" height="140em"/>
 </div>
 
 <!-- SNAKE -->

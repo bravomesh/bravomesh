@@ -138,11 +138,6 @@
   <img src="https://streak-stats.demolab.com?user=bravomesh&hide_border=true&background=0d1117&ring=42a5f5&fire=1565c0&currStreakLabel=42a5f5&sideLabels=90caf9&sideNums=c9d1d9&dates=90caf9&stroke=1565c0"/>
 </div>
 
-<!-- CODING ANIMATION -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Coding animation"/>
-</div>
-
 <!-- CONTRIBUTION HEATMAP -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bravomesh&theme=github_dark" width="100%"/>

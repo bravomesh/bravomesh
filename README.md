@@ -3,7 +3,7 @@
 
 <!-- TYPING -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=42A5F5&center=true&vCenter=true&width=600&lines=Building+GIS+%26+climate+platforms+%40+ICPAC-IGAD;Satellite+pipelines+%C2%B7+real-time+hazard+dashboards;Full-stack+%C2%B7+DevOps+%C2%B7+Geospatial+%C2%B7+ML;Systems+built+at+the+scale+of+nations" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=42A5F5&center=true&vCenter=true&width=600&lines=Building+GIS+%26+climate+platforms+%40+ICPAC-IGAD;Satellite+pipelines+%C2%B7+real-time+hazard+dashboards;Full-stack+%C2%B7+DevOps+%C2%B7+Geospatial+%C2%B7+ML;Systems+that+scale+under+heavy+traffic" alt="Typing SVG"/>
 </div>
 
 <!-- SOCIAL LINKS -->
@@ -29,7 +29,7 @@
 
 <img src="./assets/terminal.svg" width="100%" alt="Terminal animation"/>
 
-- 🛰️ &nbsp;**Satellite & climate data** → national-scale production platforms
+- 🛰️ &nbsp;**Satellite & climate data** → production systems that scale under heavy traffic
 - 🧩 &nbsp;Full-stack: **frontend → backend → infra → pipelines**
 - ⚙️ &nbsp;Deep in **Docker, Kubernetes, CI/CD, AWS / GCP**
 - 🌍 &nbsp;**Food-security & disaster decisions** for millions

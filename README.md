@@ -130,7 +130,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bravomesh&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=42a5f5&icon_color=1565c0&text_color=90caf9"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bravomesh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=42a5f5&icon_color=1565c0&text_color=90caf9"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bravomesh&layout=compact&hide_border=true&bg_color=0d1117&title_color=42a5f5&text_color=90caf9&langs_count=8"/>
 </div>
 

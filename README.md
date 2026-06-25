@@ -143,11 +143,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bravomesh&theme=github_dark" width="100%"/>
 </div>
 
-<!-- ACTIVITY OVERVIEW — below contributions -->
-<div align="center">
-  <img src="./assets/radar.svg" width="100%" alt="Activity overview"/>
-</div>
-
 <!-- SNAKE -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/bravomesh/bravomesh/output/snake.svg" alt="Snake eating contributions"/>

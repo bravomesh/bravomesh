@@ -23,8 +23,7 @@
 <table>
 <tr>
 <td width="45%" align="center">
-  <script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.9.14/dist/dotlottie-wc.js" type="module"></script>
-  <dotlottie-wc src="https://lottie.host/66b2c2c6-d57a-41ad-852a-0b086dd8c289/PwFTJJKvkT.lottie" style="width: 300px;height: 300px" autoplay loop></dotlottie-wc>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" alt="Developer"/>
 </td>
 <td width="55%" valign="top">
 
@@ -137,6 +136,12 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=bravomesh&hide_border=true&background=0d1117&ring=42a5f5&fire=1565c0&currStreakLabel=42a5f5&sideLabels=90caf9&sideNums=c9d1d9&dates=90caf9&stroke=1565c0"/>
+</div>
+
+<!-- LOTTIE ANIMATION -->
+<div align="center">
+  <script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.9.14/dist/dotlottie-wc.js" type="module"></script>
+  <dotlottie-wc src="https://lottie.host/66b2c2c6-d57a-41ad-852a-0b086dd8c289/PwFTJJKvkT.lottie" style="width: 300px;height: 300px" autoplay loop></dotlottie-wc>
 </div>
 
 <!-- CONTRIBUTION HEATMAP -->

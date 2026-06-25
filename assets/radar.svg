@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 300" width="320" height="300">
+  <defs>
+    <style>
+      .radar-poly {
+        stroke-dasharray: 240;
+        stroke-dashoffset: 240;
+        animation: draw 1.8s ease 0.4s forwards;
+      }
+      @keyframes draw { to { stroke-dashoffset: 0; } }
+      .radar-fill {
+        opacity: 0;
+        animation: fillIn 0.6s ease 2.0s forwards;
+      }
+      @keyframes fillIn { to { opacity: 0.35; } }
+      .dot {
+        opacity: 0;
+        animation: popIn 0.3s ease forwards;
+      }
+      .dot:nth-child(1) { animation-delay: 2.1s; }
+      .dot:nth-child(2) { animation-delay: 2.2s; }
+      .dot:nth-child(3) { animation-delay: 2.3s; }
+      .dot:nth-child(4) { animation-delay: 2.4s; }
+      @keyframes popIn { to { opacity: 1; } }
+      .lbl {
+        opacity: 0;
+        animation: fadeIn 0.4s ease forwards;
+      }
+      .lbl:nth-child(1) { animation-delay: 2.2s; }
+      .lbl:nth-child(2) { animation-delay: 2.3s; }
+      .lbl:nth-child(3) { animation-delay: 2.4s; }
+      .lbl:nth-child(4) { animation-delay: 2.5s; }
+      @keyframes fadeIn { to { opacity: 1; } }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="320" height="300" fill="#0d1117" rx="8"/>
+
+  <!-- Grid lines -->
+  <line x1="160" y1="40"  x2="160" y2="260" stroke="#21262d" stroke-width="1"/>
+  <line x1="50"  y1="150" x2="270" y2="150" stroke="#21262d" stroke-width="1"/>
+  <!-- Concentric guides at 33% and 66% -->
+  <ellipse cx="160" cy="150" rx="37" ry="37" fill="none" stroke="#21262d" stroke-width="0.8"/>
+  <ellipse cx="160" cy="150" rx="73" ry="73" fill="none" stroke="#21262d" stroke-width="0.8"/>
+
+  <!-- Axes endpoints (110px radius) -->
+  <!-- Top: Code review, Right: Issues, Bottom: Pull requests, Left: Commits -->
+  <!-- Values: Commits 65%, PRs 25%, Code review 8%, Issues 2% → scaled to 110px max -->
+  <!-- Commits: 110px, PRs: 42px, Code review: 14px, Issues: 3px -->
+
+  <!-- Radar fill (animated) -->
+  <polygon class="radar-fill"
+    points="160,136 163,150 160,192 50,150"
+    fill="#3fb950"/>
+
+  <!-- Radar outline (animated draw) -->
+  <polygon class="radar-poly"
+    points="160,136 163,150 160,192 50,150"
+    fill="none" stroke="#3fb950" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- Vertex dots -->
+  <g>
+    <circle class="dot" cx="160" cy="136" r="4" fill="#3fb950"/>
+    <circle class="dot" cx="163" cy="150" r="4" fill="#3fb950"/>
+    <circle class="dot" cx="160" cy="192" r="4" fill="#3fb950"/>
+    <circle class="dot" cx="50"  cy="150" r="4" fill="#3fb950"/>
+  </g>
+
+  <!-- Axis labels -->
+  <g font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#8b949e" text-anchor="middle">
+    <g class="lbl">
+      <text x="160" y="26"  fill="#8b949e" font-size="11">8%</text>
+      <text x="160" y="39"  fill="#8b949e" font-size="11" font-weight="600">Code review</text>
+    </g>
+    <g class="lbl">
+      <text x="292" y="147" fill="#8b949e" font-size="11">2%</text>
+      <text x="292" y="160" fill="#8b949e" font-size="11" font-weight="600">Issues</text>
+    </g>
+    <g class="lbl">
+      <text x="160" y="277" fill="#8b949e" font-size="11">25%</text>
+      <text x="160" y="290" fill="#8b949e" font-size="11" font-weight="600">Pull requests</text>
+    </g>
+    <g class="lbl">
+      <text x="28" y="147" fill="#8b949e" font-size="11" text-anchor="middle">65%</text>
+      <text x="28" y="160" fill="#8b949e" font-size="11" font-weight="600" text-anchor="middle">Commits</text>
+    </g>
+  </g>
+</svg>

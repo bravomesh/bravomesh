@@ -138,6 +138,11 @@
   <img src="https://streak-stats.demolab.com?user=bravomesh&theme=tokyonight&hide_border=true&background=0d1117&ring=42a5f5&fire=1565c0&currStreakLabel=42a5f5"/>
 </div>
 
+<!-- ACTIVITY RADAR -->
+<div align="center">
+  <img src="./assets/radar.svg" width="320" alt="Activity overview"/>
+</div>
+
 <!-- PROFILE SUMMARY CARDS -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bravomesh&theme=tokyonight" width="100%"/>

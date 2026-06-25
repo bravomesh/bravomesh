@@ -130,8 +130,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bravomesh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=42a5f5&icon_color=1565c0&text_color=90caf9"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bravomesh&layout=compact&hide_border=true&bg_color=0d1117&title_color=42a5f5&text_color=90caf9&langs_count=8"/>
+  <img height="170em" src="https://github-readme-stats-htfgdtn2v-meshs-projects-48026285.vercel.app/api?username=bravomesh&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=42a5f5&icon_color=1565c0&text_color=90caf9"/>
+  <img height="170em" src="https://github-readme-stats-htfgdtn2v-meshs-projects-48026285.vercel.app/api/top-langs/?username=bravomesh&layout=compact&count_private=true&hide_border=true&bg_color=0d1117&title_color=42a5f5&text_color=90caf9&langs_count=8"/>
 </div>
 
 <div align="center">

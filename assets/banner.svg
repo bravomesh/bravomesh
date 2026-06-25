@@ -4,8 +4,8 @@
       <feGaussianBlur stdDeviation="1.2"/>
     </filter>
     <linearGradient id="blue-tint" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"   stop-color="#0a1f4e" stop-opacity="0.72"/>
-      <stop offset="100%" stop-color="#0d47a1" stop-opacity="0.64"/>
+      <stop offset="0%"   stop-color="#0a1f4e" stop-opacity="0.50"/>
+      <stop offset="100%" stop-color="#0d47a1" stop-opacity="0.42"/>
     </linearGradient>
     <linearGradient id="vignette-b" x1="0" y1="0" x2="0" y2="1">
       <stop offset="60%" stop-color="#0a1f4e" stop-opacity="0"/>
@@ -36,7 +36,7 @@
   <rect x="0" y="30" width="50" height="350" fill="#0c1726" opacity="0.75"/>
 
   <!-- ── Background code (blurred, low opacity) ── -->
-  <g filter="url(#code-blur)" opacity="0.30" font-family="'Courier New', Consolas, monospace" font-size="13.5">
+  <g filter="url(#code-blur)" opacity="0.42" font-family="'Courier New', Consolas, monospace" font-size="13.5">
 
     <text x="14" y="58"  fill="#4a5a7a">1</text>
     <text x="65" y="58"  fill="#c792ea">import</text>

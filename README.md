@@ -148,9 +148,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bravomesh&theme=github_dark" width="100%"/>
 </div>
 
-<!-- ACTIVITY RADAR — below contributions -->
+<!-- ACTIVITY OVERVIEW — below contributions -->
 <div align="center">
-  <img src="./assets/radar.svg" width="320" alt="Activity overview"/>
+  <img src="./assets/radar.svg" width="100%" alt="Activity overview"/>
 </div>
 
 <!-- SNAKE -->

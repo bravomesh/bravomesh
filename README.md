@@ -23,7 +23,8 @@
 <table>
 <tr>
 <td width="45%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" alt="Developer"/>
+  <script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.9.14/dist/dotlottie-wc.js" type="module"></script>
+  <dotlottie-wc src="https://lottie.host/66b2c2c6-d57a-41ad-852a-0b086dd8c289/PwFTJJKvkT.lottie" style="width: 300px;height: 300px" autoplay loop></dotlottie-wc>
 </td>
 <td width="55%" valign="top">
 
@@ -130,26 +131,22 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bravomesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=42a5f5&icon_color=1565c0"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bravomesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=42a5f5&langs_count=8"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bravomesh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=42a5f5&icon_color=1565c0&text_color=90caf9"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bravomesh&layout=compact&hide_border=true&bg_color=0d1117&title_color=42a5f5&text_color=90caf9&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=bravomesh&theme=tokyonight&hide_border=true&background=0d1117&ring=42a5f5&fire=1565c0&currStreakLabel=42a5f5"/>
+  <img src="https://streak-stats.demolab.com?user=bravomesh&hide_border=true&background=0d1117&ring=42a5f5&fire=1565c0&currStreakLabel=42a5f5&sideLabels=90caf9&sideNums=c9d1d9&dates=90caf9&stroke=1565c0"/>
 </div>
 
-<!-- ACTIVITY RADAR -->
+<!-- CONTRIBUTION HEATMAP -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bravomesh&theme=github_dark" width="100%"/>
+</div>
+
+<!-- ACTIVITY RADAR — below contributions -->
 <div align="center">
   <img src="./assets/radar.svg" width="320" alt="Activity overview"/>
-</div>
-
-<!-- PROFILE SUMMARY CARDS -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bravomesh&theme=tokyonight" width="100%"/>
-</div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bravomesh&theme=tokyonight" height="140em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bravomesh&theme=tokyonight&utcOffset=3" height="140em"/>
 </div>
 
 <!-- SNAKE -->

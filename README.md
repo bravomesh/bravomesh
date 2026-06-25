@@ -130,7 +130,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bravomesh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=42a5f5&icon_color=1565c0&text_color=90caf9"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bravomesh&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=42a5f5&icon_color=1565c0&text_color=90caf9"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bravomesh&layout=compact&hide_border=true&bg_color=0d1117&title_color=42a5f5&text_color=90caf9&langs_count=8"/>
 </div>
 
@@ -138,10 +138,9 @@
   <img src="https://streak-stats.demolab.com?user=bravomesh&hide_border=true&background=0d1117&ring=42a5f5&fire=1565c0&currStreakLabel=42a5f5&sideLabels=90caf9&sideNums=c9d1d9&dates=90caf9&stroke=1565c0"/>
 </div>
 
-<!-- LOTTIE ANIMATION -->
+<!-- CODING ANIMATION -->
 <div align="center">
-  <script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.9.14/dist/dotlottie-wc.js" type="module"></script>
-  <dotlottie-wc src="https://lottie.host/66b2c2c6-d57a-41ad-852a-0b086dd8c289/PwFTJJKvkT.lottie" style="width: 300px;height: 300px" autoplay loop></dotlottie-wc>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Coding animation"/>
 </div>
 
 <!-- CONTRIBUTION HEATMAP -->

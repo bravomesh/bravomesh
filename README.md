@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg" width="100%" alt="Meshack Kibet — Code · Data · Maps"/>
+<img src="./assets/banner.svg" width="100%" alt="Meshack Kibet — systems and geospatial developer"/>
 
 <p align="center">
   <a href="https://meshkibet.netlify.app/">Portfolio</a>
@@ -14,12 +14,7 @@
 
 ## About
 
-<table>
-<tr>
-<td width="42%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Developer at work"/>
-</td>
-<td width="58%" valign="top">
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer at work"/>
 
 Systems and geospatial developer. I build full-stack web platforms and the data
 pipelines behind them — satellite and climate data ingestion, spatial databases,
@@ -27,16 +22,10 @@ interactive maps, and real-time dashboards.
 
 - **Full-stack** — frontend, backend, infrastructure, and data pipelines, end to end
 - **Geospatial** — WebGIS, remote sensing, spatial databases, satellite imagery processing
-- **Cloud & DevOps** — Docker, Kubernetes, and CI/CD on AWS and GCP
+- **Cloud &amp; DevOps** — Docker, Kubernetes, and CI/CD on AWS and GCP
 - **Focus** — climate and environmental data systems built to scale
 
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="./assets/terminal.svg" width="480" alt="Satellite data pipeline"/>
-</p>
+<br clear="all"/>
 
 ## Tech Stack
 

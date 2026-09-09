@@ -1,59 +1,33 @@
-<!-- BANNER — code-screenshot background -->
 <img src="./assets/banner.svg" width="100%" alt="Meshack Kibet — Code · Data · Maps"/>
 
-<!-- TYPING -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=42A5F5&center=true&vCenter=true&width=600&lines=Building+GIS+%26+climate+platforms+%40+ICPAC-IGAD;Satellite+pipelines+%C2%B7+real-time+hazard+dashboards;Full-stack+%C2%B7+DevOps+%C2%B7+Geospatial+%C2%B7+ML;Systems+that+scale+under+heavy+traffic" alt="Typing SVG"/>
-</div>
-
-<!-- SOCIAL LINKS -->
-<div align="center">
-  <a href="https://meshkibet.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0d47a1?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/meshack-kibet-16b090389/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/_kibet.mesh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:mshckkibet@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1nsX2l1x-Zv15YsQ0lOimJooy4rqd8QKh/view"><img src="https://img.shields.io/badge/CV-1565c0?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
-</div>
+<p align="center">
+  <a href="https://meshkibet.netlify.app/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/meshack-kibet-16b090389/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:mshckkibet@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://drive.google.com/file/d/1nsX2l1x-Zv15YsQ0lOimJooy4rqd8QKh/view">CV</a>
+</p>
 
 <br/>
 
-<!-- ABOUT — 2-column: GIF + info -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> About Me
+## About
 
-<table>
-<tr>
-<td width="45%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" alt="Developer"/>
-</td>
-<td width="55%" valign="top">
+Systems and geospatial developer. I build full-stack web platforms and the data
+pipelines behind them — satellite and climate data ingestion, spatial databases,
+interactive maps, and real-time dashboards.
 
-<img src="./assets/terminal.svg" width="100%" alt="Terminal animation"/>
+- **Full-stack** — frontend, backend, infrastructure, and data pipelines, end to end
+- **Geospatial** — WebGIS, remote sensing, spatial databases, satellite imagery processing
+- **Cloud & DevOps** — Docker, Kubernetes, and CI/CD on AWS and GCP
+- **Focus** — climate and environmental data systems built to scale
 
-- 🛰️ &nbsp;**Satellite & climate data** → production systems that scale under heavy traffic
-- 🧩 &nbsp;Full-stack: **frontend → backend → infra → pipelines**
-- ⚙️ &nbsp;Deep in **Docker, Kubernetes, CI/CD, AWS / GCP**
-- 🌍 &nbsp;**Food-security & disaster decisions** for millions
-- 💬 &nbsp;Ask me about **WebGIS, geospatial pipelines, remote sensing**
-- 📫 &nbsp;**mshckkibet@gmail.com** · [meshkibet.netlify.app](https://meshkibet.netlify.app/)
+<p align="center">
+  <img src="./assets/terminal.svg" width="480" alt="Satellite data pipeline"/>
+</p>
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-| 🚀 Platforms shipped | 🌍 Countries served | 🛠️ Tech in daily use |
-|:---:|:---:|:---:|
-| **3+** | **11** | **35+** |
-
-</div>
-
-<br/>
-
-<!-- TECH STACK -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -110,57 +84,3 @@
 ![Prefect](https://img.shields.io/badge/Prefect-024DFD?style=flat-square&logo=prefect&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-<br/>
-
-<!-- FEATURED WORK -->
-## 🚀 Featured Work
-
-> Platforms actively used by governments, NGOs & researchers across the Horn of Africa.
-
-| Project | What it does | Stack | Live |
-|:--|:--|:--|:--:|
-| **🌐 EA Hazards Watch** | Multi-hazard early-warning platform — floods, droughts & climate risk across 11 countries | `Django` `PostGIS` `Leaflet` `GEE` | [↗](https://eahazardswatch.icpac.net/) |
-| **🌾 Drought Watch** | Satellite-driven drought & agriculture monitoring delivering food-security intelligence | `Python` `FastAPI` `GDAL` `PostgreSQL` | [↗](https://droughtwatch.icpac.net/) |
-| **🛰️ ICPAC** | Climate intelligence hub: seasonal outlooks, data & regional services for East Africa | `Wagtail` `Django` `PostgreSQL` `Docker` | [↗](https://www.icpac.net/) |
-
-<br/>
-
-<!-- GITHUB STATS -->
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats-htfgdtn2v-meshs-projects-48026285.vercel.app/api?username=bravomesh&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=42a5f5&icon_color=1565c0&text_color=90caf9"/>
-  <img height="170em" src="https://github-readme-stats-htfgdtn2v-meshs-projects-48026285.vercel.app/api/top-langs/?username=bravomesh&layout=compact&count_private=true&hide_border=true&bg_color=0d1117&title_color=42a5f5&text_color=90caf9&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=bravomesh&hide_border=true&background=0d1117&ring=42a5f5&fire=1565c0&currStreakLabel=42a5f5&sideLabels=90caf9&sideNums=c9d1d9&dates=90caf9&stroke=1565c0"/>
-</div>
-
-<!-- CONTRIBUTION HEATMAP -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bravomesh&theme=github_dark" width="100%"/>
-</div>
-
-<!-- SNAKE -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bravomesh/bravomesh/output/snake.svg" alt="Snake eating contributions"/>
-</div>
-
-<br/>
-
-<!-- CONNECT -->
-## 🤝 Let's Build Something
-
-Working at the intersection of **climate, geospatial data, or systems engineering**? Open to collaborations, consulting, and good conversations.
-
-<div align="center">
-  <a href="https://meshkibet.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0d47a1?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/meshack-kibet-16b090389/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/_kibet.mesh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:mshckkibet@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:42a5f5,50:1565c0,100:0d47a1&height=110&section=footer"/>

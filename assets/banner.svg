@@ -57,7 +57,7 @@
     <text x="335" y="94" fill="#d4d4d4"> Point, Polygon</text>
 
     <text x="14" y="112" fill="#4a5a7a">4</text>
-    <text x="65" y="112" fill="#6a9955"># ICPAC · East Africa Hazard Monitor</text>
+    <text x="65" y="112" fill="#6a9955"># Geospatial data pipeline</text>
 
     <text x="14" y="130" fill="#4a5a7a">5</text>
     <text x="65" y="130" fill="#d4d4d4"></text>
@@ -134,9 +134,9 @@
   <rect width="1280" height="380" fill="url(#vignette-r)"/>
 
   <!-- ── Eyebrow tag ── -->
-  <rect x="526" y="82" width="228" height="26" rx="13" fill="#1565c0" opacity="0.55"/>
+  <rect x="510" y="82" width="260" height="26" rx="13" fill="#1565c0" opacity="0.55"/>
   <text x="640" y="100" text-anchor="middle"
-    font-family="'Courier New', monospace" font-size="11" fill="#90caf9" letter-spacing="2.5">ICPAC-IGAD · NAIROBI</text>
+    font-family="'Courier New', monospace" font-size="11" fill="#90caf9" letter-spacing="2.5">GEOSPATIAL · SYSTEMS</text>
 
   <!-- ── Main headline ── -->
   <text x="640" y="182" text-anchor="middle"

@@ -1,13 +1,11 @@
 <img src="./assets/banner.svg" width="100%" alt="Meshack Kibet — systems and geospatial developer"/>
 
 <p align="center">
-  <a href="https://meshkibet.netlify.app/">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/meshack-kibet-16b090389/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:mshckkibet@gmail.com">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://drive.google.com/file/d/1nsX2l1x-Zv15YsQ0lOimJooy4rqd8QKh/view">CV</a>
+  <a href="https://meshkibet.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/meshack-kibet-16b090389/"><img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="mailto:mshckkibet@gmail.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <br/>
@@ -33,7 +31,7 @@ interactive maps, and real-time dashboards.
 <tr>
 <td width="36%" valign="middle" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" alt="Code and data dashboards"/>
+<img src="./assets/workstation.svg" width="100%" alt="Developer workstation with three screens and streaming code"/>
 
 </td>
 <td width="64%" valign="top">

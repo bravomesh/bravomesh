@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 292" width="560" height="292" fill="none" role="img" aria-label="About Meshack Kibet">
+  <style>text{font-family:Georgia,'Iowan Old Style','Times New Roman',serif}.bd{font-size:15.5px;fill:#1f2328}.lbl{font-size:15.5px;font-weight:700;fill:#0969da}.mk{fill:#0969da}</style>
+  <circle cx="8" cy="119" r="2.7" class="mk"/>
+  <circle cx="8" cy="173" r="2.7" class="mk"/>
+  <circle cx="8" cy="227" r="2.7" class="mk"/>
+  <circle cx="8" cy="258" r="2.7" class="mk"/>
+  <text x="2" y="20" class="bd">Systems and geospatial developer. I build full-stack web</text>
+  <text x="2" y="43" class="bd">platforms and the data pipelines behind them — satellite and</text>
+  <text x="2" y="66" class="bd">climate data ingestion, spatial databases, interactive maps,</text>
+  <text x="2" y="89" class="bd">and real-time dashboards.</text>
+  <text x="24" y="124"><tspan class="lbl">Full-stack</tspan><tspan class="bd"> — frontend, backend, infrastructure, and</tspan></text>
+  <text x="24" y="147" class="bd">data pipelines, end to end</text>
+  <text x="24" y="178"><tspan class="lbl">Geospatial</tspan><tspan class="bd"> — WebGIS, remote sensing, spatial databases,</tspan></text>
+  <text x="24" y="201" class="bd">satellite imagery processing</text>
+  <text x="24" y="232"><tspan class="lbl">Cloud &amp; DevOps</tspan><tspan class="bd"> — Docker, Kubernetes, and CI/CD on AWS and GCP</tspan></text>
+  <text x="24" y="263"><tspan class="lbl">Focus</tspan><tspan class="bd"> — climate and environmental data systems built to scale</tspan></text>
+</svg>

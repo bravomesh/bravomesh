@@ -14,14 +14,10 @@
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer at work"/>
 
-Systems and geospatial developer. I build full-stack web platforms and the data
-pipelines behind them — satellite and climate data ingestion, spatial databases,
-interactive maps, and real-time dashboards.
-
-- **Full-stack** — frontend, backend, infrastructure, and data pipelines, end to end
-- **Geospatial** — WebGIS, remote sensing, spatial databases, satellite imagery processing
-- **Cloud &amp; DevOps** — Docker, Kubernetes, and CI/CD on AWS and GCP
-- **Focus** — climate and environmental data systems built to scale
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg"/>
+  <img width="500" src="./assets/about-light.svg" alt="Systems and geospatial developer. I build full-stack web platforms and the data pipelines behind them — satellite and climate data ingestion, spatial databases, interactive maps, and real-time dashboards. Full-stack: frontend, backend, infrastructure, and data pipelines, end to end. Geospatial: WebGIS, remote sensing, spatial databases, satellite imagery processing. Cloud & DevOps: Docker, Kubernetes, and CI/CD on AWS and GCP. Focus: climate and environmental data systems built to scale."/>
+</picture>
 
 <br clear="all"/>
 
@@ -31,7 +27,7 @@ interactive maps, and real-time dashboards.
 <tr>
 <td width="36%" valign="middle" align="center">
 
-<img src="./assets/workstation.svg" width="100%" alt="Developer workstation with three screens and streaming code"/>
+<img src="./assets/workstation.gif" width="100%" alt="Developer at a three-screen workstation running code and dashboards"/>
 
 </td>
 <td width="64%" valign="top">

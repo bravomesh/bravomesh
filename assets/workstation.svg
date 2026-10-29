@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" width="600" height="440" fill="none" role="img" aria-label="Developer workstation with three screens and streaming code">
+  <style>
+    .bar { transform-box: fill-box; transform-origin: left center; animation: stream 2.7s ease-in-out infinite; }
+    @keyframes stream { 0% { transform: scaleX(.14); opacity:.35 } 45% { transform: scaleX(1); opacity:1 } 76% { transform: scaleX(1); opacity:1 } 100% { transform: scaleX(.14); opacity:.35 } }
+    @keyframes sL { to { transform: translateY(-66px) } }
+    @keyframes sM { to { transform: translateY(-84px) } }
+    @keyframes sR { to { transform: translateY(-66px) } }
+    .scL { animation: sL 6s linear infinite; }
+    .scM { animation: sM 5s linear infinite; }
+    .scR { animation: sR 7.5s linear infinite; }
+    @keyframes blink { 0%,45% { opacity:1 } 55%,100% { opacity:0 } }
+    .cur { animation: blink 1s step-end infinite; }
+    @media (prefers-reduced-motion: reduce) {
+      .bar,.scL,.scM,.scR,.cur { animation: none; }
+      .bar { transform: none; opacity: 1; }
+    }
+  </style>
+
+  <defs>
+    <clipPath id="cL"><rect x="78" y="158" width="104" height="76" rx="3"/></clipPath>
+    <clipPath id="cM"><rect x="228" y="143" width="134" height="92" rx="3"/></clipPath>
+    <clipPath id="cR"><rect x="408" y="158" width="104" height="76" rx="3"/></clipPath>
+  </defs>
+
+  <!-- ground shadow -->
+  <ellipse cx="300" cy="415" rx="220" ry="13" fill="#b9c6dd" opacity="0.4"/>
+
+  <!-- streaming code lines above the machines -->
+  <g>
+    <rect class="bar" style="animation-delay:0.00s" x="262" y="52" width="150" height="5" rx="2.5" fill="#a9c9f5"/>
+    <rect class="bar" style="animation-delay:0.17s" x="316" y="60" width="96" height="5" rx="2.5" fill="#4c8bf5"/>
+    <rect class="bar" style="animation-delay:0.34s" x="284" y="68" width="128" height="5" rx="2.5" fill="#d6e4fb"/>
+    <rect class="bar" style="animation-delay:0.51s" x="352" y="76" width="60" height="5" rx="2.5" fill="#a9c9f5"/>
+    <rect class="bar" style="animation-delay:0.68s" x="300" y="84" width="112" height="5" rx="2.5" fill="#4c8bf5"/>
+    <rect class="bar" style="animation-delay:0.85s" x="368" y="92" width="44" height="5" rx="2.5" fill="#d6e4fb"/>
+    <rect class="bar" style="animation-delay:1.02s" x="328" y="100" width="84" height="5" rx="2.5" fill="#a9c9f5"/>
+    <rect class="bar" style="animation-delay:1.19s" x="342" y="108" width="70" height="5" rx="2.5" fill="#4c8bf5"/>
+    <rect class="bar" style="animation-delay:1.36s" x="292" y="116" width="120" height="5" rx="2.5" fill="#d6e4fb"/>
+    <rect class="bar" style="animation-delay:1.53s" x="360" y="124" width="52" height="5" rx="2.5" fill="#a9c9f5"/>
+  </g>
+
+  <!-- desk -->
+  <rect x="34" y="250" width="532" height="14" rx="3" fill="#b9cdf0"/>
+  <rect x="34" y="263" width="532" height="6" rx="3" fill="#a6bce8"/>
+  <rect x="70" y="268" width="10" height="150" rx="3" fill="#9aa6b8"/>
+  <rect x="520" y="268" width="10" height="150" rx="3" fill="#9aa6b8"/>
+  <rect x="60" y="414" width="30" height="7" rx="3" fill="#9aa6b8"/>
+  <rect x="510" y="414" width="30" height="7" rx="3" fill="#9aa6b8"/>
+
+  <!-- stands -->
+  <rect x="122" y="238" width="14" height="14" fill="#8ea6cf"/>
+  <rect x="104" y="248" width="50" height="6" rx="3" fill="#8ea6cf"/>
+  <rect x="288" y="230" width="16" height="22" fill="#8ea6cf"/>
+  <rect x="266" y="248" width="60" height="6" rx="3" fill="#8ea6cf"/>
+  <rect x="452" y="238" width="14" height="14" fill="#8ea6cf"/>
+  <rect x="434" y="248" width="50" height="6" rx="3" fill="#8ea6cf"/>
+
+  <!-- left monitor (navy bezel, light screen) -->
+  <rect x="70" y="150" width="120" height="92" rx="7" fill="#1f2a3d"/>
+  <rect x="78" y="158" width="104" height="76" rx="3" fill="#ffffff"/>
+  <g clip-path="url(#cL)"><g class="scL">
+      <rect x="85" y="167" width="58" height="4" rx="2.0" fill="#2b3a52"/>
+      <rect x="95" y="178" width="34" height="4" rx="2.0" fill="#2b3a52"/>
+      <rect x="85" y="189" width="74" height="4" rx="2.0" fill="#2b3a52"/>
+      <rect x="101" y="200" width="44" height="4" rx="2.0" fill="#2b3a52"/>
+      <rect x="91" y="211" width="22" height="4" rx="2.0" fill="#2b3a52"/>
+      <rect x="85" y="222" width="64" height="4" rx="2.0" fill="#2b3a52"/>
+      <rect x="85" y="233" width="58" height="4" rx="2.0" fill="#2b3a52"/>
+      <rect x="95" y="244" width="34" height="4" rx="2.0" fill="#2b3a52"/>
+      <rect x="85" y="255" width="74" height="4" rx="2.0" fill="#2b3a52"/>
+      <rect x="101" y="266" width="44" height="4" rx="2.0" fill="#2b3a52"/>
+      <rect x="91" y="277" width="22" height="4" rx="2.0" fill="#2b3a52"/>
+      <rect x="85" y="288" width="64" height="4" rx="2.0" fill="#2b3a52"/>
+  </g></g>
+
+  <!-- center monitor (blue bezel, dark screen) -->
+  <rect x="220" y="135" width="150" height="108" rx="8" fill="#4c8bf5"/>
+  <rect x="228" y="143" width="134" height="92" rx="3" fill="#16243f"/>
+  <g clip-path="url(#cM)"><g class="scM">
+      <rect x="235" y="152" width="96" height="4" rx="2.0" fill="#7aa2f7"/>
+      <rect x="245" y="164" width="50" height="4" rx="2.0" fill="#9ece6a"/>
+      <rect x="235" y="176" width="120" height="4" rx="2.0" fill="#e0af68"/>
+      <rect x="251" y="188" width="70" height="4" rx="2.0" fill="#7aa2f7"/>
+      <rect x="241" y="200" width="38" height="4" rx="2.0" fill="#f7768e"/>
+      <rect x="235" y="212" width="88" height="4" rx="2.0" fill="#bb9af7"/>
+      <rect x="247" y="224" width="60" height="4" rx="2.0" fill="#7dcfff"/>
+      <rect x="235" y="236" width="96" height="4" rx="2.0" fill="#7aa2f7"/>
+      <rect x="245" y="248" width="50" height="4" rx="2.0" fill="#9ece6a"/>
+      <rect x="235" y="260" width="120" height="4" rx="2.0" fill="#e0af68"/>
+      <rect x="251" y="272" width="70" height="4" rx="2.0" fill="#7aa2f7"/>
+      <rect x="241" y="284" width="38" height="4" rx="2.0" fill="#f7768e"/>
+      <rect x="235" y="296" width="88" height="4" rx="2.0" fill="#bb9af7"/>
+      <rect x="247" y="308" width="60" height="4" rx="2.0" fill="#7dcfff"/>
+  </g></g>
+  <rect class="cur" x="235" y="219" width="8" height="5" rx="2" fill="#7dcfff"/>
+
+  <!-- right monitor (blue bezel, dark screen) -->
+  <rect x="400" y="150" width="120" height="92" rx="7" fill="#4c8bf5"/>
+  <rect x="408" y="158" width="104" height="76" rx="3" fill="#16243f"/>
+  <g clip-path="url(#cR)"><g class="scR">
+      <rect x="415" y="167" width="60" height="4" rx="2.0" fill="#7dcfff"/>
+      <rect x="425" y="178" width="80" height="4" rx="2.0" fill="#7aa2f7"/>
+      <rect x="415" y="189" width="40" height="4" rx="2.0" fill="#9ece6a"/>
+      <rect x="431" y="200" width="68" height="4" rx="2.0" fill="#7dcfff"/>
+      <rect x="421" y="211" width="30" height="4" rx="2.0" fill="#e0af68"/>
+      <rect x="415" y="222" width="54" height="4" rx="2.0" fill="#7aa2f7"/>
+      <rect x="415" y="233" width="60" height="4" rx="2.0" fill="#7dcfff"/>
+      <rect x="425" y="244" width="80" height="4" rx="2.0" fill="#7aa2f7"/>
+      <rect x="415" y="255" width="40" height="4" rx="2.0" fill="#9ece6a"/>
+      <rect x="431" y="266" width="68" height="4" rx="2.0" fill="#7dcfff"/>
+      <rect x="421" y="277" width="30" height="4" rx="2.0" fill="#e0af68"/>
+      <rect x="415" y="288" width="54" height="4" rx="2.0" fill="#7aa2f7"/>
+  </g></g>
+  <g clip-path="url(#cR)">
+    <polyline points="413,222 425,214 437,218 449,206 461,212 473,200 485,208 501,198" fill="none" stroke="#7dcfff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+  </g>
+
+  <!-- keyboard + mouse -->
+  <rect x="236" y="249" width="80" height="10" rx="2" fill="#d6e4fb"/>
+  <rect x="324" y="251" width="14" height="9" rx="4" fill="#d6e4fb"/>
+
+  <!-- developer (seated, back view) -->
+  <rect x="367" y="338" width="10" height="34" rx="4" fill="#9aa6b8"/>
+  <ellipse cx="372" cy="376" rx="36" ry="8" fill="#9aa6b8"/>
+  <rect x="338" y="250" width="68" height="94" rx="24" fill="#464f5b"/>
+  <rect x="330" y="288" width="13" height="9" rx="4" fill="#586474"/>
+  <rect x="401" y="288" width="13" height="9" rx="4" fill="#586474"/>
+  <rect x="346" y="256" width="52" height="70" rx="16" fill="#3b7bf6"/>
+  <ellipse cx="372" cy="258" rx="33" ry="21" fill="#3b7bf6"/>
+  <path d="M356 264 Q326 258 300 257" stroke="#3b7bf6" stroke-width="15" stroke-linecap="round"/>
+  <circle cx="299" cy="257" r="6" fill="#f0a878"/>
+  <rect x="366" y="236" width="12" height="12" rx="3" fill="#f0a878"/>
+  <circle cx="372" cy="223" r="18.5" fill="#1f2733"/>
+  <path d="M353 221 Q372 198 391 221" stroke="#1f2733" stroke-width="5.5" fill="none" stroke-linecap="round"/>
+  <ellipse cx="353" cy="226" rx="5" ry="8" fill="#1f2733"/>
+  <ellipse cx="391" cy="226" rx="4" ry="7" fill="#1f2733" opacity="0.55"/>
+
+  <!-- blue bin (nod to the about illustration) -->
+  <rect x="512" y="356" width="46" height="6" rx="2" fill="#4c8bf5"/>
+  <path d="M516 363 L554 363 L550 402 L520 402 Z" fill="none" stroke="#4c8bf5" stroke-width="3"/>
+  <path d="M524 363 L528 402 M535 363 L535 402 M546 363 L542 402" stroke="#a9c9f5" stroke-width="2"/>
+</svg>

@@ -1,11 +1,11 @@
-<img src="./assets/banner.svg" width="100%" alt="Meshack Kibet — systems and geospatial developer"/>
+<img src="./assets/banner.svg" width="100%" alt="Meshack Kibet, systems and geospatial developer"/>
 
 <p align="center">
-  <a href="https://meshkibet.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/meshack-kibet-16b090389/"><img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="mailto:mshckkibet@gmail.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://bravomesh.github.io/portfolio/"><img height="40" src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/meshack-kibet-16b090389/"><img height="40" src="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:mshckkibet@gmail.com"><img height="40" src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <br/>
@@ -16,7 +16,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg"/>
-  <img width="500" src="./assets/about-light.svg" alt="Systems and geospatial developer. I build full-stack web platforms and the data pipelines behind them — satellite and climate data ingestion, spatial databases, interactive maps, and real-time dashboards. Full-stack: frontend, backend, infrastructure, and data pipelines, end to end. Geospatial: WebGIS, remote sensing, spatial databases, satellite imagery processing. Cloud & DevOps: Docker, Kubernetes, and CI/CD on AWS and GCP. Focus: climate and environmental data systems built to scale."/>
+  <img width="500" src="./assets/about-light.svg" alt="Systems and geospatial developer. I build full-stack web platforms and the data pipelines behind them: satellite and climate data ingestion, spatial databases, interactive maps, and real-time dashboards. Full-stack: frontend, backend, infrastructure, and data pipelines, end to end. Geospatial: WebGIS, remote sensing, spatial databases, satellite imagery processing. Cloud & DevOps: Docker, Kubernetes, and CI/CD on AWS and GCP. Focus: climate and environmental data systems built to scale."/>
 </picture>
 
 <br clear="all"/>

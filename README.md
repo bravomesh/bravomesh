@@ -1,11 +1,11 @@
 <img src="./assets/banner.svg" width="100%" alt="Meshack Kibet, systems and geospatial developer"/>
 
 <p align="center">
-  <a href="https://bravomesh.github.io/portfolio/"><img height="40" src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://bravomesh.github.io/portfolio/"><img width="163" src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/meshack-kibet-16b090389/"><img height="40" src="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/meshack-kibet-16b090389/"><img width="124" src="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;&nbsp;
-  <a href="mailto:mshckkibet@gmail.com"><img height="40" src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:mshckkibet@gmail.com"><img width="116" src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <br/>
